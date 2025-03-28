@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>webzone RSS Feed</title>
+    <link>na</link>
+    <description>The official RSS Feed for na</description>
+    <pubDate>Fri, 28 Mar 2025 01:45:21 -0400</pubDate>
+    <item>
+      <title>sooo hey guys</title>
+      <link>na/posts/redo/</link>
+      <description>&lt;h1 id=&quot;sooo-hey-guys&quot;&gt;sooo hey guys&lt;/h1&gt;
+&lt;p&gt;Whats up guys so we’re back with another video, today we’re going to be remaking my website so that I can update it yeah.. So basically Thanks for watching, Make sure to uhh  Yeah whatever man peace !&lt;/p&gt;
+</description>
+      <pubDate>Fri, 28 Mar 2025 12:00:00 -0400</pubDate>
+      <dc:date>2025-03-28T12:00:00-04:00</dc:date>
+    </item>
+    <dc:date>2025-03-28T01:45:21-04:00</dc:date>
+  </channel>
+</rss>
