@@ -1,5 +1,0 @@
-#ignore all files
-*
-#allow build and build contents + cname
-!/build
-!/build/**

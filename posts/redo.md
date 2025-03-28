@@ -1,2 +1,0 @@
-# sooo hey guys
-Whats up guys so we're back with another video, today we're going to be remaking my website so that I can update it yeah.. So basically Thanks for watching, Make sure to uhh  Yeah whatever man peace ! 
